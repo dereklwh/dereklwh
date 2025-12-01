@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm an undergraduate student at Simon Fraser University, where I'm completing a B.Sc. Joint Major in Information Systems in Business Administration and Computing Science. I am passionate about the intersection of business and technology, and I love personal development. 
+Hi there! I'm a final year student studying business + cs at sfu. I am passionate about technology for social good. I enjoy documenting my life in a physical journal, reading books, watching hockey, playing badminton, and staying active. More about me [derekhuang.xyz](derekhuang.xyz)
 <!--
 - **📚 Currently Learning**: I am currently learning React and full stack development!
 
